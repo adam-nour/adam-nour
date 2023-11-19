@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi There 👋<br><br>Am a Fullstack web Developer.<br>
+# Hi There 👋<br><br>Am a Fullstack web Developer and Computer Engineer.<br>
 
 
 ## 🌐 Socials:
